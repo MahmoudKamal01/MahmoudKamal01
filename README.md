@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="60" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="60" />
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" />
 </div>
