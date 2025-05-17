@@ -30,23 +30,23 @@
 
 ### DevOps & Cloud
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" />
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" />
 </div>
 
 ### Databases & Tools
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="60" />
 </div>
 
 ---
