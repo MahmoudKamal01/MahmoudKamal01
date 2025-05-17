@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Kamal</h1>
-<h3 align="center">🚀 DevOps Engineer | 💻 MERN Stack Developer | 🛠️ DevSecOps Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | 💻 MERN Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudkamal01&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudkamal01" />
@@ -104,9 +104,9 @@ _Graduated: Jun 2023 — GPA: 3.17 — Graduation Project: Excellent (98%)_
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahmoudkamal01/mahmoudkamal01/output/snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/mahmoudkamal01/mahmoudkamal01/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mahmoudkamal01/count.svg?" alt="Profile Views" />
