@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Kamal</h1>
 <h3 align="center">🚀 DevOps Engineer | 💻 MERN Stack Developer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudkamal01&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudkamal01" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -12,7 +8,7 @@
 - 🔧 DevOps Engineer & Full-Stack Developer passionate about building **secure**, **scalable**, and **automated** systems.
 - 📚 Currently diving deeper into **DevSecOps**, with hands-on experience in **CI/CD**, **Kubernetes**, and **cloud infrastructure**.
 - 🧠 Known for **problem-solving**, **adaptability**, and working well in **cross-functional teams**.
-- 📝 I write tech articles regularly on [Medium](https://medium.com/@mahmoudkamalmk01).
+- 📝 I write tech articles on [Medium](https://medium.com/@mahmoudkamalmk01).
 - 🌐 Check out my portfolio: [mahmoudkamalaldeen-portfolio.vercel.app](https://mahmoudkamalaldeen-portfolio.vercel.app/)
 - 📫 Reach me at: **mahmoudkamalaldeen1@gmail.com** | **+201003169340**
 
@@ -65,27 +61,6 @@
 
 ---
 
-## 🛠️ Projects & Experience Highlights
-
-### 🚀 Notable Projects
-- **ETQAN – ABET Assessment Tool**: Microservices-based system using Docker, Kubernetes, and Kafka.
-- **Cairo-Cart**: Full-stack app deployed on AWS EKS with Terraform & GitHub Actions.
-- **Namazi**: MERN Stack AI-powered form builder using Gemini AI.
-
-### 💼 Work Experience
-- **DevSecOps Intern** – NTI  
-  _Feb 2025 - Present_ | Jenkins, Docker, Kubernetes, Ansible, AWS
-- **System Administrator** – Egyptian Air Force  
-  _Mar 2024 – Mar 2025_ | Linux, Windows Server, Veeam, OpenVAS, Wazuh
-- **Full-Stack Developer** – Focal Point (Remote, Riyadh)  
-  _Jun 2023 – Dec 2023_ | React, Node.js, Firebase, cPanel
-
-### 🎓 Education
-**B.Sc. in Computer Engineering**, Benha University  
-_Graduated: Jun 2023 — GPA: 3.17 — Graduation Project: Excellent (98%)_
-
----
-
 ## 🔗 Connect With Me
 
 <p align="left">
@@ -100,14 +75,3 @@ _Graduated: Jun 2023 — GPA: 3.17 — Graduation Project: Excellent (98%)_
   </a>
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/mahmoudkamal01/mahmoudkamal01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mahmoudkamal01/count.svg?" alt="Profile Views" />
-</div>
